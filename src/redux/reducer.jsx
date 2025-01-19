@@ -38,10 +38,11 @@ const reducer = (state = initialState, action) => {
                 panier: state.panier.map((item) =>
                     item.id === action.payload.id
                         ? { ...item, quantite: action.payload.quantite }
-                        : item
+                        : item 
                 ),
             };
 
+    
         case 'SUPPRIMER_DU_PANIER':
             return {
                 ...state,
