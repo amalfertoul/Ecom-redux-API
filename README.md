@@ -10,6 +10,7 @@ Key features include:
 This setup creates a responsive and interactive user experience, seamlessly connecting the front-end with backend operations.
 
 ![image](https://github.com/user-attachments/assets/f69f0f71-4c3d-44a7-835a-4042ab4d3d0c)
+![image](https://github.com/user-attachments/assets/0c75c144-20c8-487c-a7fb-649c58de2444)
 ![image](https://github.com/user-attachments/assets/cd21a726-bab4-4226-a9d0-7a62e8936ae0)
 
 
