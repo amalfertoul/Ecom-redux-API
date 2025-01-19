@@ -20,7 +20,7 @@ const Navbar = () => {
 
             <style jsx>{`
                 .badge {
-                    background-color: red;
+                    background-color: #a600ff;
                     color: white;
                     border-radius: 50%;
                     padding: 0.3em 0.7em;
